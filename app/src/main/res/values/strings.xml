@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="NomeCompleto">Maria Aghata</string>
+    <string name="Cargo">Desenvolvedora Web Junior</string>
+    <string name="email">aghata.reis95@gmail.com</string>
+    <string name="telefone">(11) 95216-8096</string>
+    <string name="instagram">_aghata_reis</string>
+</resources>
